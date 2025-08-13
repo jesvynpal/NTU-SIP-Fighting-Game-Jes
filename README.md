@@ -1,6 +1,6 @@
 # FightStyleJes - 2D Fighting Game
 
-A 2D side-scrolling fighting game built with Unity, featuring player combat mechanics, enemy AI with state machines, and multiple levels.
+A 2D side-scrolling fighting game built with Unity during my student internship program at Temasek Polytechnic.
 
 ## Project Overview
 
@@ -97,6 +97,19 @@ The project includes a Windows build (`FightStyleJes.exe`) that can be run direc
 3. Press Play to test the game
 4. Use the build settings to create your own executable
 
-## Contributing
+## About the Developer
 
-This is a student project for NTU SIP. For questions or contributions, please contact the development team.
+**Built by: Jes**  
+**Institution: Temasek Polytechnic**  
+**Program: Student Internship Program**  
+**Project Type: Unity 2D Game Development**
+
+This project was developed as part of my learning experience at Temasek Polytechnic, focusing on game development principles, Unity engine usage, and software engineering practices.
+
+## Contact
+
+For questions, feedback, or collaboration opportunities, please contact me directly.
+
+---
+
+*This project represents the culmination of my studies and practical application of game development concepts learned during my time at Temasek Polytechnic.*
